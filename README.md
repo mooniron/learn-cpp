@@ -1,2 +1,4 @@
 # learn-cpp
-learn c++ programming
+Learn C++ programming
+
+# The C++ Programming Language
